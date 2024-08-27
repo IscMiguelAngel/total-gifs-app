@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación web desarrollada con React JS y Vite JS (como entorno de desarrollo), que permite realizar búsquedas de GIFs utilizando la API de [Giphy](https://giphy.com/). Fue creado como parte de un curso de React JS en Udemy dictado por [Fernando Herrera](https://github.com/Klerith).
 
+# VISTA PREVIA
+**Link de la vista previa:** [Total Gifs App](https://totalgifsapp.netlify.app/)
+
 ## Características Originales del Proyecto
 
 - **Búsquedas con FETCH:** La aplicación realiza peticiones FETCH a la API de Giphy cuando el usuario realiza una búsqueda.
